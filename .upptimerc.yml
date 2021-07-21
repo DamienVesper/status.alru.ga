@@ -19,9 +19,6 @@ status-website:
   introTitle: "Something isn't working?"
   introMessage: Join the [Discord](https://discord.alru.ga) to report it!
   theme: dark
-  navbar:
-    - title: Status
-      href: /
 
 commitMessages:
   commitAuthorName: "Damien Vesper"
