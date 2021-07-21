@@ -23,8 +23,8 @@ sites:
       - Astrid
 
 status-website:
-  # cname: status.alru.ga
-  baseUrl: /share.alru.ga
+  cname: status.alru.ga
+  # baseUrl: /share.alru.ga
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Status
   introTitle: "Something isn't working?"
