@@ -12,12 +12,12 @@ sites:
 
   # Servers
   - name: Apollo
-    url: https://voyager.alru.ga:8070
+    url: https://apollo.alru.ga:8070
     expectedStatusCodes:
       - 200
       - 401
   - name: Voyager
-    url: https://apollo.alru.ga:8090
+    url: https://voyager.alru.ga:8090
     expectedStatusCodes:
       - 200
       - 401
