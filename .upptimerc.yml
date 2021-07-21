@@ -2,16 +2,29 @@ owner: Alliance-Reunited
 repo: share.alru.ga
 
 sites:
+  # Sites
   - name: Website
     url: https://www.alru.ga
+    assignees:
+      - DamienVesper
+      - ZEROPOINTBRUH
+      - Astrid
   - name: Forum
     url: https://forum.alru.ga
+    assignees:
+      - DamienVesper
+      - ZEROPOINTBRUH
+      - Astrid
   - name: Panel
     url: https://panel.alru.ga
+    assignees:
+      - DamienVesper
+      - ZEROPOINTBRUH
+      - Astrid
 
 status-website:
-  cname: status.alru.ga
-  # baseUrl: /share.alru.ga
+  # cname: status.alru.ga
+  baseUrl: /share.alru.ga
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Status
   introTitle: "Something isn't working?"
