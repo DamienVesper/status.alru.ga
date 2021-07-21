@@ -18,9 +18,16 @@ status-website:
   name: Status
   introTitle: "Something isn't working?"
   introMessage: Join the [Discord](https://discord.alru.ga) to report it!
+  theme: dark
   navbar:
     - title: Status
       href: /
+    - title: GitHub
+      href: https://github.com/$OWNER/$REPO
+
+commitMessages:
+  commitAuthorName: "Damien Vesper"
+  commitAuthorEmail: "ldamienvesper@gmail.com"
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
