@@ -5,17 +5,19 @@
     "icon": "https://favicons.githubusercontent.com/www.alru.ga",
     "slug": "website",
     "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1083,
-    "timeDay": 1083,
-    "timeWeek": 1083,
-    "timeMonth": 1083,
-    "timeYear": 1083,
-    "dailyMinutesDown": {}
+    "uptime": "99.46%",
+    "uptimeDay": "99.46%",
+    "uptimeWeek": "99.46%",
+    "uptimeMonth": "99.46%",
+    "uptimeYear": "99.46%",
+    "time": 1007,
+    "timeDay": 1007,
+    "timeWeek": 1007,
+    "timeMonth": 1007,
+    "timeYear": 1007,
+    "dailyMinutesDown": {
+      "2021-07-21": 2
+    }
   },
   {
     "name": "Forum",
@@ -23,17 +25,19 @@
     "icon": "https://favicons.githubusercontent.com/forum.alru.ga",
     "slug": "forum",
     "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1189,
-    "timeDay": 1189,
-    "timeWeek": 1189,
-    "timeMonth": 1189,
-    "timeYear": 1189,
-    "dailyMinutesDown": {}
+    "uptime": "99.44%",
+    "uptimeDay": "99.44%",
+    "uptimeWeek": "99.44%",
+    "uptimeMonth": "99.44%",
+    "uptimeYear": "99.44%",
+    "time": 1246,
+    "timeDay": 1246,
+    "timeWeek": 1246,
+    "timeMonth": 1246,
+    "timeYear": 1246,
+    "dailyMinutesDown": {
+      "2021-07-21": 2
+    }
   },
   {
     "name": "Panel",
@@ -41,16 +45,118 @@
     "icon": "https://favicons.githubusercontent.com/panel.alru.ga",
     "slug": "panel",
     "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 602,
-    "timeDay": 602,
-    "timeWeek": 602,
-    "timeMonth": 602,
-    "timeYear": 602,
-    "dailyMinutesDown": {}
+    "uptime": "99.44%",
+    "uptimeDay": "99.44%",
+    "uptimeWeek": "99.44%",
+    "uptimeMonth": "99.44%",
+    "uptimeYear": "99.44%",
+    "time": 735,
+    "timeDay": 735,
+    "timeWeek": 735,
+    "timeMonth": 735,
+    "timeYear": 735,
+    "dailyMinutesDown": {
+      "2021-07-21": 2
+    }
+  },
+  {
+    "name": "Apollo",
+    "url": "https://voyager.alru.ga:8070",
+    "icon": "https://favicons.githubusercontent.com/voyager.alru.ga",
+    "slug": "apollo",
+    "status": "down",
+    "uptime": "0.00%",
+    "uptimeDay": "0.00%",
+    "uptimeWeek": "0.00%",
+    "uptimeMonth": "0.00%",
+    "uptimeYear": "0.00%",
+    "time": 0,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 0,
+    "timeYear": 0,
+    "dailyMinutesDown": {
+      "2021-07-21": 4
+    }
+  },
+  {
+    "name": "Voyager",
+    "url": "https://apollo.alru.ga:8090",
+    "icon": "https://favicons.githubusercontent.com/apollo.alru.ga",
+    "slug": "voyager",
+    "status": "down",
+    "uptime": "74.66%",
+    "uptimeDay": "74.66%",
+    "uptimeWeek": "74.66%",
+    "uptimeMonth": "74.66%",
+    "uptimeYear": "74.66%",
+    "time": 0,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 0,
+    "timeYear": 0,
+    "dailyMinutesDown": {
+      "2021-07-21": 0
+    }
+  },
+  {
+    "name": "Gemini",
+    "url": "https://gemini.alru.ga:8080",
+    "icon": "https://favicons.githubusercontent.com/gemini.alru.ga",
+    "slug": "gemini",
+    "status": "down",
+    "uptime": "0.00%",
+    "uptimeDay": "0.00%",
+    "uptimeWeek": "0.00%",
+    "uptimeMonth": "0.00%",
+    "uptimeYear": "0.00%",
+    "time": 999,
+    "timeDay": 999,
+    "timeWeek": 999,
+    "timeMonth": 999,
+    "timeYear": 999,
+    "dailyMinutesDown": {
+      "2021-07-21": 2
+    }
+  },
+  {
+    "name": "Artemis",
+    "url": "https://gemini.alru.ga:8080",
+    "icon": "https://favicons.githubusercontent.com/gemini.alru.ga",
+    "slug": "artemis",
+    "status": "up",
+    "uptime": "0.00%",
+    "uptimeDay": "0.00%",
+    "uptimeWeek": "0.00%",
+    "uptimeMonth": "0.00%",
+    "uptimeYear": "0.00%",
+    "time": 23,
+    "timeDay": 23,
+    "timeWeek": 23,
+    "timeMonth": 23,
+    "timeYear": 23,
+    "dailyMinutesDown": {
+      "2021-07-21": 2
+    }
+  },
+  {
+    "name": "Gemini",
+    "url": "https://excelsior.alru.ga:8080",
+    "icon": "https://favicons.githubusercontent.com/excelsior.alru.ga",
+    "slug": "gemini",
+    "status": "down",
+    "uptime": "0.00%",
+    "uptimeDay": "0.00%",
+    "uptimeWeek": "0.00%",
+    "uptimeMonth": "0.00%",
+    "uptimeYear": "0.00%",
+    "time": 999,
+    "timeDay": 999,
+    "timeWeek": 999,
+    "timeMonth": 999,
+    "timeYear": 999,
+    "dailyMinutesDown": {
+      "2021-07-21": 2
+    }
   }
 ]
