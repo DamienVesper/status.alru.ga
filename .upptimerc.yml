@@ -1,5 +1,5 @@
 owner: Alliance-Reunited # Your GitHub organization or username
-repo: share.alru.ga # The name of this repository
+repo: status.alru.ga # The name of this repository
 
 sites:
   - name: Website
@@ -22,8 +22,6 @@ status-website:
   navbar:
     - title: Status
       href: /
-    - title: GitHub
-      href: https://github.com/$OWNER/$REPO
 
 commitMessages:
   commitAuthorName: "Damien Vesper"
