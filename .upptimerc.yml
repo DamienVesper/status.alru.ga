@@ -49,10 +49,6 @@ status-website:
   introMessage: Join the [Discord](https://discord.alru.ga) to report it!
   theme: dark
 
-commitMessages:
-  commitAuthorName: "Damien Vesper"
-  commitAuthorEmail: "ldamienvesper@gmail.com"
-
 assignees:
   - DamienVesper
   - ZEROPOINTBRUH
