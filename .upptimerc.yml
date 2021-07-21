@@ -1,6 +1,5 @@
-# Change these first
-owner: Alliance-Reunited # Your GitHub organization or username, where this repository lives
-repo: share.alru.ga # The name of this repository
+owner: Alliance-Reunited
+repo: share.alru.ga
 
 sites:
   - name: Website
@@ -11,10 +10,8 @@ sites:
     url: https://panel.alru.ga
 
 status-website:
-  # Add your custom domain name, or remove the `cname` line if you don't have a domain
-  # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: status.alru.ga
-  # baseUrl: /your-repo-name
+  # baseUrl: /share.alru.ga
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Status
   introTitle: "Something isn't working?"
@@ -22,6 +19,3 @@ status-website:
   navbar:
     - title: Status
       href: /
-
-# Upptime also supports notifications, assigning issues, and more
-# See https://upptime.js.org/docs/configuration
