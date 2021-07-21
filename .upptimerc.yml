@@ -31,7 +31,7 @@ sites:
     expectedStatusCodes:
       - 200
       - 401
-  - name: Gemini
+  - name: Excelsior
     url: https://excelsior.alru.ga:8080
     expectedStatusCodes:
       - 200
