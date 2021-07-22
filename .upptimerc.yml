@@ -11,31 +11,31 @@ sites:
     url: https://panel.alru.ga
 
   # Servers
-  - name: Apollo
-    url: https://apollo.alru.ga:8070
-    expectedStatusCodes:
-      - 200
-      - 401
-  - name: Voyager
-    url: https://voyager.alru.ga:8090
-    expectedStatusCodes:
-      - 200
-      - 401
-  - name: Gemini
-    url: https://gemini.alru.ga:8080
-    expectedStatusCodes:
-      - 200
-      - 401
-  - name: Artemis
-    url: https://gemini.alru.ga:8080
-    expectedStatusCodes:
-      - 200
-      - 401
-  - name: Excelsior
-    url: https://excelsior.alru.ga:8080
-    expectedStatusCodes:
-      - 200
-      - 401
+  # - name: Apollo
+  #   url: https://apollo.alru.ga:8070
+  #   expectedStatusCodes:
+  #     - 200
+  #     - 401
+  # - name: Voyager
+  #   url: https://voyager.alru.ga:8090
+  #   expectedStatusCodes:
+  #     - 200
+  #     - 401
+  # - name: Gemini
+  #   url: https://gemini.alru.ga:8080
+  #   expectedStatusCodes:
+  #     - 200
+  #     - 401
+  # - name: Artemis
+  #   url: https://gemini.alru.ga:8080
+  #   expectedStatusCodes:
+  #     - 200
+  #     - 401
+  # - name: Excelsior
+  #   url: https://excelsior.alru.ga:8080
+  #   expectedStatusCodes:
+  #     - 200
+  #     - 401
 
 
 status-website:
