@@ -4,19 +4,19 @@
     "url": "https://apollo.alru.ga:8070",
     "icon": "https://favicons.githubusercontent.com/apollo.alru.ga",
     "slug": "apollo",
-    "status": "down",
-    "uptime": "32.86%",
-    "uptimeDay": "32.86%",
-    "uptimeWeek": "32.86%",
-    "uptimeMonth": "32.86%",
-    "uptimeYear": "32.86%",
-    "time": 480,
-    "timeDay": 480,
-    "timeWeek": 480,
-    "timeMonth": 480,
-    "timeYear": 480,
+    "status": "up",
+    "uptime": "32.42%",
+    "uptimeDay": "32.42%",
+    "uptimeWeek": "32.42%",
+    "uptimeMonth": "32.42%",
+    "uptimeYear": "32.42%",
+    "time": 450,
+    "timeDay": 450,
+    "timeWeek": 450,
+    "timeMonth": 450,
+    "timeYear": 450,
     "dailyMinutesDown": {
-      "2021-07-22": 405,
+      "2021-07-22": 414,
       "2021-07-21": 29
     }
   },
@@ -25,19 +25,19 @@
     "url": "https://voyager.alru.ga:8090",
     "icon": "https://favicons.githubusercontent.com/voyager.alru.ga",
     "slug": "voyager",
-    "status": "down",
-    "uptime": "34.76%",
-    "uptimeDay": "34.76%",
-    "uptimeWeek": "34.76%",
-    "uptimeMonth": "34.76%",
-    "uptimeYear": "34.76%",
-    "time": 311,
-    "timeDay": 311,
-    "timeWeek": 311,
-    "timeMonth": 311,
-    "timeYear": 311,
+    "status": "up",
+    "uptime": "34.31%",
+    "uptimeDay": "34.31%",
+    "uptimeWeek": "34.31%",
+    "uptimeMonth": "34.31%",
+    "uptimeYear": "34.31%",
+    "time": 302,
+    "timeDay": 302,
+    "timeWeek": 302,
+    "timeMonth": 302,
+    "timeYear": 302,
     "dailyMinutesDown": {
-      "2021-07-22": 407,
+      "2021-07-22": 417,
       "2021-07-21": 13
     }
   },
@@ -58,7 +58,7 @@
     "timeMonth": 362,
     "timeYear": 362,
     "dailyMinutesDown": {
-      "2021-07-22": 796,
+      "2021-07-22": 815,
       "2021-07-21": 16
     }
   },
@@ -79,7 +79,7 @@
     "timeMonth": 46,
     "timeYear": 46,
     "dailyMinutesDown": {
-      "2021-07-22": 796,
+      "2021-07-22": 815,
       "2021-07-21": 21
     }
   },
@@ -100,7 +100,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-07-22": 796,
+      "2021-07-22": 815,
       "2021-07-21": 13
     }
   }
