@@ -27,7 +27,7 @@ sites:
       - 200
       - 401
   - name: Artemis
-    url: https://gemini.alru.ga:8080
+    url: https://artemis.alru.ga:8080
     expectedStatusCodes:
       - 200
       - 401
