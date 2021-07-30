@@ -1,5 +1,5 @@
-owner: Alliance-Reunited # Your GitHub organization or username
-repo: status.alru.ga # The name of this repository
+owner: Alliance-Reunited
+repo: status.alru.ga
 
 sites:
   # Servers
@@ -30,10 +30,7 @@ sites:
       - 401
 
 status-website:
-  # Add your custom domain name, or remove the `cname` line if you don't have a domain
-  # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: status.alru.ga
-  # baseUrl: /your-repo-name
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Alru Network Status
   introTitle: "Something isn't working?"
@@ -47,6 +44,3 @@ commitMessages:
 assignees:
   - DamienVesper
   - ZEROPOINTBRUH
-
-# Upptime also supports notifications, assigning issues, and more
-# See https://upptime.js.org/docs/configuration
