@@ -2,14 +2,6 @@ owner: Alliance-Reunited # Your GitHub organization or username
 repo: status.alru.ga # The name of this repository
 
 sites:
-  # Websites
-  # - name: Website
-  #   url: https://www.alru.ga
-  # - name: Forum
-  #   url: https://forum.alru.ga
-  # - name: Panel
-  #   url: https://panel.alru.ga
-
   # Servers
   - name: Apollo
     url: https://apollo.alru.ga:8070
@@ -28,6 +20,11 @@ sites:
       - 401
   - name: Artemis
     url: https://artemis.alru.ga:8080
+    expectedStatusCodes:
+      - 200
+      - 401
+  - name: Excelsior
+    url: https://excelsior.alru.ga:8080
     expectedStatusCodes:
       - 200
       - 401
