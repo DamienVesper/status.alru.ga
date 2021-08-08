@@ -23,11 +23,6 @@ sites:
     expectedStatusCodes:
       - 200
       - 401
-  - name: Excelsior
-    url: https://excelsior.alru.ga:8080
-    expectedStatusCodes:
-      - 200
-      - 401
 
 status-website:
   cname: status.alru.ga
