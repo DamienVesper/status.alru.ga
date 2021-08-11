@@ -23,6 +23,11 @@ sites:
     expectedStatusCodes:
       - 200
       - 401
+  - name: Mercury
+    url: https://mercury.alru.ga:8081
+    expectedStatusCodes:
+      - 200
+      - 401
 
 status-website:
   cname: status.alru.ga
