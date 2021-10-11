@@ -5,18 +5,18 @@
     "icon": "https://favicons.githubusercontent.com/apollo.alru.ga",
     "slug": "apollo",
     "status": "up",
-    "uptime": "78.03%",
-    "uptimeDay": "99.32%",
-    "uptimeWeek": "66.31%",
+    "uptime": "78.04%",
+    "uptimeDay": "99.27%",
+    "uptimeWeek": "66.30%",
     "uptimeMonth": "82.74%",
-    "uptimeYear": "78.03%",
+    "uptimeYear": "78.04%",
     "time": 672,
-    "timeDay": 1132,
+    "timeDay": 1312,
     "timeWeek": 592,
     "timeMonth": 581,
     "timeYear": 672,
     "dailyMinutesDown": {
-      "2021-10-11": 10,
+      "2021-10-11": 11,
       "2021-10-10": 5,
       "2021-10-09": 641,
       "2021-10-08": 1483,
@@ -75,7 +75,7 @@
       "2021-07-24": 27,
       "2021-07-23": 135,
       "2021-07-22": 530,
-      "2021-07-21": 13
+      "2021-07-21": 8
     }
   },
   {
@@ -84,18 +84,18 @@
     "icon": "https://favicons.githubusercontent.com/voyager.alru.ga",
     "slug": "voyager",
     "status": "up",
-    "uptime": "77.01%",
-    "uptimeDay": "90.71%",
-    "uptimeWeek": "64.60%",
-    "uptimeMonth": "82.28%",
-    "uptimeYear": "77.01%",
+    "uptime": "77.07%",
+    "uptimeDay": "91.21%",
+    "uptimeWeek": "64.59%",
+    "uptimeMonth": "82.27%",
+    "uptimeYear": "77.07%",
     "time": 693,
     "timeDay": 356,
     "timeWeek": 331,
     "timeMonth": 514,
     "timeYear": 693,
     "dailyMinutesDown": {
-      "2021-10-11": 112,
+      "2021-10-11": 113,
       "2021-10-10": 55,
       "2021-10-09": 661,
       "2021-10-08": 1483,
@@ -153,7 +153,7 @@
       "2021-07-25": 148,
       "2021-07-24": 155,
       "2021-07-23": 639,
-      "2021-07-22": 536
+      "2021-07-22": 485
     }
   },
   {
@@ -162,18 +162,18 @@
     "icon": "https://favicons.githubusercontent.com/gemini.alru.ga",
     "slug": "gemini",
     "status": "up",
-    "uptime": "76.56%",
-    "uptimeDay": "90.36%",
-    "uptimeWeek": "62.52%",
+    "uptime": "76.59%",
+    "uptimeDay": "90.86%",
+    "uptimeWeek": "62.51%",
     "uptimeMonth": "79.67%",
-    "uptimeYear": "76.56%",
+    "uptimeYear": "76.59%",
     "time": 417,
     "timeDay": 466,
     "timeWeek": 412,
     "timeMonth": 454,
     "timeYear": 417,
     "dailyMinutesDown": {
-      "2021-10-11": 117,
+      "2021-10-11": 118,
       "2021-10-10": 60,
       "2021-10-09": 830,
       "2021-10-08": 1526,
@@ -220,7 +220,7 @@
       "2021-07-28": 1716,
       "2021-07-27": 3580,
       "2021-07-26": 1000,
-      "2021-07-25": 253
+      "2021-07-25": 229
     }
   },
   {
@@ -228,12 +228,12 @@
     "url": "https://artemis.alru.ga:8080",
     "icon": "https://favicons.githubusercontent.com/artemis.alru.ga",
     "slug": "artemis",
-    "status": "up",
-    "uptime": "81.26%",
-    "uptimeDay": "90.70%",
+    "status": "down",
+    "uptime": "81.33%",
+    "uptimeDay": "91.23%",
     "uptimeWeek": "93.53%",
     "uptimeMonth": "93.65%",
-    "uptimeYear": "81.26%",
+    "uptimeYear": "81.33%",
     "time": 727,
     "timeDay": 699,
     "timeWeek": 641,
@@ -290,7 +290,7 @@
       "2021-07-26": 960,
       "2021-07-25": 253,
       "2021-07-24": 182,
-      "2021-07-23": 702
+      "2021-07-23": 631
     }
   },
   {
@@ -298,19 +298,19 @@
     "url": "https://mercury.alru.ga:8081",
     "icon": "https://favicons.githubusercontent.com/mercury.alru.ga",
     "slug": "mercury",
-    "status": "up",
-    "uptime": "65.23%",
-    "uptimeDay": "90.36%",
-    "uptimeWeek": "62.61%",
+    "status": "down",
+    "uptime": "65.37%",
+    "uptimeDay": "90.86%",
+    "uptimeWeek": "62.60%",
     "uptimeMonth": "79.75%",
-    "uptimeYear": "65.23%",
+    "uptimeYear": "65.37%",
     "time": 730,
     "timeDay": 522,
     "timeWeek": 613,
     "timeMonth": 758,
     "timeYear": 730,
     "dailyMinutesDown": {
-      "2021-10-11": 117,
+      "2021-10-11": 118,
       "2021-10-10": 60,
       "2021-10-09": 830,
       "2021-10-08": 1526,
@@ -362,7 +362,7 @@
       "2021-07-28": 1716,
       "2021-07-27": 3580,
       "2021-07-26": 1000,
-      "2021-07-25": 229
+      "2021-07-25": 124
     }
   }
 ]
