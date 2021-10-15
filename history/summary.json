@@ -4,17 +4,17 @@
     "url": "https://apollo.alru.ga:8070",
     "icon": "https://favicons.githubusercontent.com/apollo.alru.ga",
     "slug": "apollo",
-    "status": "down",
-    "uptime": "78.31%",
-    "uptimeDay": "43.38%",
-    "uptimeWeek": "73.18%",
+    "status": "up",
+    "uptime": "78.34%",
+    "uptimeDay": "43.72%",
+    "uptimeWeek": "73.23%",
     "uptimeMonth": "81.03%",
-    "uptimeYear": "78.31%",
-    "time": 697,
-    "timeDay": 290,
-    "timeWeek": 850,
-    "timeMonth": 685,
-    "timeYear": 697,
+    "uptimeYear": "78.34%",
+    "time": 695,
+    "timeDay": 334,
+    "timeWeek": 827,
+    "timeMonth": 679,
+    "timeYear": 695,
     "dailyMinutesDown": {
       "2021-10-15": 319,
       "2021-10-14": 1119,
@@ -75,8 +75,7 @@
       "2021-07-28": 858,
       "2021-07-27": 2520,
       "2021-07-26": 514,
-      "2021-07-25": 105,
-      "2021-07-24": 27
+      "2021-07-25": 105
     }
   },
   {
@@ -84,11 +83,11 @@
     "url": "https://voyager.alru.ga:8090",
     "icon": "https://favicons.githubusercontent.com/voyager.alru.ga",
     "slug": "voyager",
-    "status": "up",
+    "status": "down",
     "uptime": "76.50%",
-    "uptimeDay": "40.27%",
+    "uptimeDay": "40.31%",
     "uptimeWeek": "55.02%",
-    "uptimeMonth": "76.80%",
+    "uptimeMonth": "76.79%",
     "uptimeYear": "76.50%",
     "time": 883,
     "timeDay": 1931,
@@ -96,7 +95,7 @@
     "timeMonth": 1166,
     "timeYear": 883,
     "dailyMinutesDown": {
-      "2021-10-15": 365,
+      "2021-10-15": 370,
       "2021-10-14": 1446,
       "2021-10-13": 1324,
       "2021-10-12": 19,
@@ -165,18 +164,18 @@
     "icon": "https://favicons.githubusercontent.com/gemini.alru.ga",
     "slug": "gemini",
     "status": "up",
-    "uptime": "79.54%",
+    "uptime": "79.58%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "38.37%",
-    "uptimeMonth": "72.52%",
-    "uptimeYear": "79.54%",
+    "uptimeWeek": "38.38%",
+    "uptimeMonth": "72.51%",
+    "uptimeYear": "79.58%",
     "time": 469,
     "timeDay": 329,
     "timeWeek": 1127,
     "timeMonth": 600,
     "timeYear": 469,
     "dailyMinutesDown": {
-      "2021-10-15": 684,
+      "2021-10-15": 689,
       "2021-10-14": 2559,
       "2021-10-13": 1336,
       "2021-10-12": 29,
@@ -220,8 +219,7 @@
       "2021-08-07": 1394,
       "2021-08-06": 78,
       "2021-08-05": 19,
-      "2021-08-04": 1417,
-      "2021-08-03": 59
+      "2021-08-04": 1417
     }
   },
   {
@@ -230,18 +228,18 @@
     "icon": "https://favicons.githubusercontent.com/artemis.alru.ga",
     "slug": "artemis",
     "status": "up",
-    "uptime": "79.77%",
+    "uptime": "79.95%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "48.20%",
-    "uptimeMonth": "86.51%",
-    "uptimeYear": "79.77%",
+    "uptimeWeek": "48.15%",
+    "uptimeMonth": "86.50%",
+    "uptimeYear": "79.95%",
     "time": 725,
     "timeDay": 704,
     "timeWeek": 676,
     "timeMonth": 797,
     "timeYear": 725,
     "dailyMinutesDown": {
-      "2021-10-15": 684,
+      "2021-10-15": 689,
       "2021-10-14": 2553,
       "2021-10-13": 1324,
       "2021-10-12": 34,
@@ -292,7 +290,7 @@
       "2021-07-29": 181,
       "2021-07-28": 1716,
       "2021-07-27": 2143,
-      "2021-07-26": 342
+      "2021-07-26": 115
     }
   },
   {
@@ -301,18 +299,18 @@
     "icon": "https://favicons.githubusercontent.com/mercury.alru.ga",
     "slug": "mercury",
     "status": "up",
-    "uptime": "69.77%",
+    "uptime": "69.83%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "38.54%",
-    "uptimeMonth": "72.61%",
-    "uptimeYear": "69.77%",
+    "uptimeWeek": "38.55%",
+    "uptimeMonth": "72.60%",
+    "uptimeYear": "69.83%",
     "time": 737,
     "timeDay": 653,
     "timeWeek": 765,
     "timeMonth": 779,
     "timeYear": 737,
     "dailyMinutesDown": {
-      "2021-10-15": 684,
+      "2021-10-15": 689,
       "2021-10-14": 2559,
       "2021-10-13": 1324,
       "2021-10-12": 34,
@@ -360,8 +358,7 @@
       "2021-08-07": 2834,
       "2021-08-06": 115,
       "2021-08-04": 1442,
-      "2021-08-05": 19,
-      "2021-08-03": 59
+      "2021-08-05": 19
     }
   }
 ]
