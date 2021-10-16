@@ -4,15 +4,15 @@
     "url": "https://apollo.alru.ga:8070",
     "icon": "https://favicons.githubusercontent.com/apollo.alru.ga",
     "slug": "apollo",
-    "status": "up",
-    "uptime": "81.67%",
-    "uptimeDay": "86.19%",
+    "status": "down",
+    "uptime": "81.70%",
+    "uptimeDay": "87.55%",
     "uptimeWeek": "83.05%",
     "uptimeMonth": "80.68%",
-    "uptimeYear": "81.67%",
+    "uptimeYear": "81.70%",
     "time": 746,
     "timeDay": 2329,
-    "timeWeek": 1195,
+    "timeWeek": 1243,
     "timeMonth": 836,
     "timeYear": 746,
     "dailyMinutesDown": {
@@ -80,13 +80,13 @@
     "icon": "https://favicons.githubusercontent.com/voyager.alru.ga",
     "slug": "voyager",
     "status": "up",
-    "uptime": "77.10%",
-    "uptimeDay": "90.56%",
-    "uptimeWeek": "65.32%",
+    "uptime": "78.04%",
+    "uptimeDay": "90.55%",
+    "uptimeWeek": "65.52%",
     "uptimeMonth": "76.55%",
-    "uptimeYear": "77.10%",
+    "uptimeYear": "78.04%",
     "time": 1053,
-    "timeDay": 2828,
+    "timeDay": 3334,
     "timeWeek": 2433,
     "timeMonth": 1586,
     "timeYear": 1053,
@@ -149,8 +149,8 @@
       "2021-07-30": 11,
       "2021-07-29": 103,
       "2021-07-28": 858,
-      "2021-07-27": 2497,
-      "2021-07-26": 98
+      "2021-07-27": 1437,
+      "2021-07-26": 40
     }
   },
   {
@@ -159,11 +159,11 @@
     "icon": "https://favicons.githubusercontent.com/gemini.alru.ga",
     "slug": "gemini",
     "status": "up",
-    "uptime": "84.42%",
-    "uptimeDay": "79.68%",
-    "uptimeWeek": "49.42%",
-    "uptimeMonth": "71.96%",
-    "uptimeYear": "84.42%",
+    "uptime": "84.83%",
+    "uptimeDay": "81.03%",
+    "uptimeWeek": "49.62%",
+    "uptimeMonth": "71.95%",
+    "uptimeYear": "84.83%",
     "time": 469,
     "timeDay": 470,
     "timeWeek": 1126,
@@ -205,8 +205,7 @@
       "2021-08-30": 17,
       "2021-08-28": 54,
       "2021-08-23": 16,
-      "2021-08-20": 52,
-      "2021-08-14": 475
+      "2021-08-20": 52
     }
   },
   {
@@ -215,11 +214,11 @@
     "icon": "https://favicons.githubusercontent.com/artemis.alru.ga",
     "slug": "artemis",
     "status": "up",
-    "uptime": "83.60%",
-    "uptimeDay": "81.18%",
-    "uptimeWeek": "49.92%",
+    "uptime": "83.80%",
+    "uptimeDay": "82.52%",
+    "uptimeWeek": "50.12%",
     "uptimeMonth": "85.97%",
-    "uptimeYear": "83.60%",
+    "uptimeYear": "83.80%",
     "time": 786,
     "timeDay": 3160,
     "timeWeek": 1261,
@@ -269,8 +268,8 @@
       "2021-08-10": 64,
       "2021-08-09": 1632,
       "2021-08-08": 2369,
-      "2021-08-07": 2834,
-      "2021-08-06": 115
+      "2021-08-07": 2699,
+      "2021-08-06": 37
     }
   },
   {
@@ -279,11 +278,11 @@
     "icon": "https://favicons.githubusercontent.com/mercury.alru.ga",
     "slug": "mercury",
     "status": "up",
-    "uptime": "79.23%",
-    "uptimeDay": "81.11%",
-    "uptimeWeek": "49.80%",
+    "uptime": "79.33%",
+    "uptimeDay": "82.45%",
+    "uptimeWeek": "49.99%",
     "uptimeMonth": "72.06%",
-    "uptimeYear": "79.23%",
+    "uptimeYear": "79.33%",
     "time": 731,
     "timeDay": 563,
     "timeWeek": 715,
@@ -332,7 +331,7 @@
       "2021-08-20": 52,
       "2021-08-18": 5,
       "2021-08-17": 5,
-      "2021-08-14": 1001
+      "2021-08-14": 950
     }
   }
 ]
