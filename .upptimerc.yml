@@ -28,6 +28,11 @@ sites:
     expectedStatusCodes:
       - 200
       - 401
+  - name: vCenter
+    url: https://vcenter.alru.ga
+    expectedStatusCodes:
+      - 200
+      - 401
 
 status-website:
   cname: status.alru.ga
