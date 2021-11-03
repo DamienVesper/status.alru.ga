@@ -1,35 +1,40 @@
 owner: Alliance-Reunited
-repo: status.alru.ga
+repo: status.alru.xyz
 
 sites:
   # Servers
-  - name: Apollo
-    url: https://apollo.alru.ga:8070
-    expectedStatusCodes:
-      - 200
-      - 401
   - name: Voyager
-    url: https://voyager.alru.ga:8090
+    url: https://voyager.alru.xyz:8090
     expectedStatusCodes:
       - 200
       - 401
-  - name: Gemini
-    url: https://gemini.alru.ga:8080
-    expectedStatusCodes:
-      - 200
-      - 401
-  - name: Artemis
-    url: https://artemis.alru.ga:8080
+  - name: Apollo
+    url: https://apollo.alru.xyz:8070
     expectedStatusCodes:
       - 200
       - 401
   - name: Mercury
-    url: https://mercury.alru.ga:8081
+    url: https://mercury.alru.xyz:8081
     expectedStatusCodes:
       - 200
       - 401
-  - name: vCenter
-    url: https://vcenter.alru.ga
+  - name: Excelsior
+    url: https://excelsior.alru.xyz:8080
+    expectedStatusCodes:
+      - 200
+      - 401
+  - name: Xeno
+    url: https://xeno.alru.xyz:8080
+    expectedStatusCodes:
+      - 200
+      - 401
+  - name: Artemis
+    url: https://artemis.alru.xyz:8080
+    expectedStatusCodes:
+      - 200
+      - 401
+  - name: Gemini
+    url: https://gemini.alru.xyz:8080
     expectedStatusCodes:
       - 200
       - 401
@@ -39,7 +44,7 @@ status-website:
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Alru Network Status
   introTitle: "Something isn't working?"
-  introMessage: Join the [Discord](https://discord.alru.ga) to report it!
+  introMessage: Join the [Discord](https://discord.alru.xyz) to report it!
   theme: dark
 
 commitMessages:
