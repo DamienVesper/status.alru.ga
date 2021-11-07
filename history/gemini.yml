@@ -1,7 +1,7 @@
 url: https://gemini.alru.xyz:8080
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2021-11-07T19:41:19.829Z
+status: up
+code: 401
+responseTime: 305
+lastUpdated: 2021-11-07T19:46:55.593Z
 startTime: Wed Jul 21 2021 23:46:45 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
