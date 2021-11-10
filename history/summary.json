@@ -4,19 +4,19 @@
     "url": "https://voyager.alru.xyz:8090",
     "icon": "https://favicons.githubusercontent.com/voyager.alru.xyz",
     "slug": "voyager",
-    "status": "down",
-    "uptime": "41.46%",
+    "status": "up",
+    "uptime": "41.09%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "18.31%",
+    "uptimeWeek": "10.60%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "41.46%",
-    "time": 1061,
-    "timeDay": 183,
-    "timeWeek": 185,
-    "timeMonth": 1914,
-    "timeYear": 1061,
+    "uptimeYear": "41.09%",
+    "time": 1056,
+    "timeDay": 191,
+    "timeWeek": 186,
+    "timeMonth": 1879,
+    "timeYear": 1056,
     "dailyMinutesDown": {
-      "2021-11-10": 708,
+      "2021-11-10": 1556,
       "2021-11-09": 1518,
       "2021-11-07": 1485,
       "2021-11-08": 1440,
@@ -68,7 +68,7 @@
       "2021-09-16": 44,
       "2021-09-15": 35,
       "2021-09-14": 708,
-      "2021-09-12": 29
+      "2021-09-12": 10
     }
   },
   {
@@ -76,19 +76,19 @@
     "url": "https://apollo.alru.xyz:8070",
     "icon": "https://favicons.githubusercontent.com/apollo.alru.xyz",
     "slug": "apollo",
-    "status": "down",
-    "uptime": "43.34%",
+    "status": "up",
+    "uptime": "42.97%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "22.58%",
+    "uptimeWeek": "14.16%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "43.34%",
-    "time": 826,
-    "timeDay": 186,
-    "timeWeek": 182,
-    "timeMonth": 1308,
-    "timeYear": 826,
+    "uptimeYear": "42.97%",
+    "time": 822,
+    "timeDay": 177,
+    "timeWeek": 180,
+    "timeMonth": 1281,
+    "timeYear": 822,
     "dailyMinutesDown": {
-      "2021-11-10": 709,
+      "2021-11-10": 1556,
       "2021-11-09": 1518,
       "2021-11-07": 1649,
       "2021-11-06": 522,
@@ -137,7 +137,7 @@
       "2021-09-18": 1348,
       "2021-09-17": 16,
       "2021-09-16": 44,
-      "2021-09-15": 35
+      "2021-09-15": 22
     }
   },
   {
@@ -146,18 +146,18 @@
     "icon": "https://favicons.githubusercontent.com/mercury.alru.xyz",
     "slug": "mercury",
     "status": "up",
-    "uptime": "28.91%",
+    "uptime": "28.18%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "3.26%",
+    "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "28.91%",
+    "uptimeYear": "28.18%",
     "time": 695,
-    "timeDay": 631,
+    "timeDay": 645,
     "timeWeek": 615,
     "timeMonth": 623,
     "timeYear": 695,
     "dailyMinutesDown": {
-      "2021-11-10": 572,
+      "2021-11-10": 1844,
       "2021-11-09": 1499,
       "2021-11-07": 1649,
       "2021-11-06": 541,
@@ -198,8 +198,7 @@
       "2021-10-03": 5,
       "2021-10-02": 522,
       "2021-10-01": 6,
-      "2021-09-27": 20,
-      "2021-09-23": 10
+      "2021-09-27": 20
     }
   },
   {
@@ -210,7 +209,7 @@
     "status": "up",
     "uptime": "0.00%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "8.44%",
+    "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 382,
@@ -219,7 +218,7 @@
     "timeMonth": 214,
     "timeYear": 382,
     "dailyMinutesDown": {
-      "2021-11-10": 709,
+      "2021-11-10": 1981,
       "2021-11-09": 1518,
       "2021-11-07": 1604,
       "2021-11-06": 522,
@@ -253,8 +252,7 @@
       "2021-10-10": 60,
       "2021-10-09": 830,
       "2021-10-08": 1526,
-      "2021-10-07": 1200,
-      "2021-10-06": 22
+      "2021-10-07": 1200
     }
   },
   {
@@ -264,8 +262,8 @@
     "slug": "xeno",
     "status": "down",
     "uptime": "0.00%",
-    "uptimeDay": "75.61%",
-    "uptimeWeek": "51.21%",
+    "uptimeDay": "22.18%",
+    "uptimeWeek": "43.50%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 605,
@@ -274,7 +272,7 @@
     "timeMonth": 605,
     "timeYear": 605,
     "dailyMinutesDown": {
-      "2021-11-10": 274,
+      "2021-11-10": 1121,
       "2021-11-09": 78,
       "2021-11-07": 209,
       "2021-11-06": 288,
@@ -305,8 +303,8 @@
       "2021-10-12": 34,
       "2021-10-11": 137,
       "2021-10-10": 60,
-      "2021-10-09": 358,
-      "2021-10-08": 86
+      "2021-10-09": 189,
+      "2021-10-08": 43
     }
   },
   {
@@ -314,19 +312,19 @@
     "url": "https://artemis.alru.xyz:8080",
     "icon": "https://favicons.githubusercontent.com/artemis.alru.xyz",
     "slug": "artemis",
-    "status": "up",
-    "uptime": "43.31%",
+    "status": "down",
+    "uptime": "42.66%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "3.43%",
+    "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "43.31%",
+    "uptimeYear": "42.66%",
     "time": 766,
-    "timeDay": 622,
+    "timeDay": 653,
     "timeWeek": 607,
     "timeMonth": 855,
     "timeYear": 766,
     "dailyMinutesDown": {
-      "2021-11-10": 573,
+      "2021-11-10": 1845,
       "2021-11-09": 1499,
       "2021-11-07": 1649,
       "2021-11-06": 522,
@@ -383,18 +381,18 @@
     "icon": "https://favicons.githubusercontent.com/gemini.alru.xyz",
     "slug": "gemini",
     "status": "up",
-    "uptime": "41.68%",
+    "uptime": "41.20%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "1.92%",
+    "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "41.68%",
+    "uptimeYear": "41.20%",
     "time": 473,
-    "timeDay": 208,
+    "timeDay": 115,
     "timeWeek": 214,
     "timeMonth": 670,
     "timeYear": 473,
     "dailyMinutesDown": {
-      "2021-11-10": 709,
+      "2021-11-10": 1981,
       "2021-11-09": 1478,
       "2021-11-07": 1649,
       "2021-11-06": 541,
@@ -429,8 +427,7 @@
       "2021-10-09": 830,
       "2021-10-08": 1526,
       "2021-10-07": 1200,
-      "2021-10-06": 44,
-      "2021-10-02": 258
+      "2021-10-06": 44
     }
   }
 ]
