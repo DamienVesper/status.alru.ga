@@ -3,38 +3,13 @@ repo: status.banabyte.com
 
 sites:
   # Servers
-  - name: Voyager
-    url: https://voyager.banabyte.com:8090
-    expectedStatusCodes:
-      - 200
-      - 401
   - name: Apollo
-    url: https://apollo.banabyte.com:8070
+    url: https://apollo.banabyte.com:8080
     expectedStatusCodes:
       - 200
       - 401
-  - name: Mercury
-    url: https://mercury.banabyte.com:8081
-    expectedStatusCodes:
-      - 200
-      - 401
-  - name: Excelsior
-    url: https://excelsior.banabyte.com:8080
-    expectedStatusCodes:
-      - 200
-      - 401
-  - name: Xeno
-    url: https://xeno.banabyte.com:8080
-    expectedStatusCodes:
-      - 200
-      - 401
-  - name: Artemis
-    url: https://artemis.banabyte.com:8080
-    expectedStatusCodes:
-      - 200
-      - 401
-  - name: Gemini
-    url: https://gemini.banabyte.com:8080
+  - name: Earth
+    url: https://earth.banabyte.com:8080
     expectedStatusCodes:
       - 200
       - 401
