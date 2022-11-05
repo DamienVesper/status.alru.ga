@@ -16,7 +16,7 @@
     "timeMonth": 298,
     "timeYear": 230,
     "dailyMinutesDown": {
-      "2022-11-05": 3408,
+      "2022-11-05": 4626,
       "2022-11-04": 8640,
       "2022-11-03": 8640,
       "2022-11-02": 8640,
@@ -388,7 +388,7 @@
     "url": "https://earth.banabyte.com:8080",
     "icon": "https://icons.duckduckgo.com/ip3/earth.banabyte.com.ico",
     "slug": "earth",
-    "status": "up",
+    "status": "down",
     "uptime": "0.00%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
@@ -400,7 +400,7 @@
     "timeMonth": 202,
     "timeYear": 192,
     "dailyMinutesDown": {
-      "2022-11-05": 3976,
+      "2022-11-05": 5194,
       "2022-11-04": 10080,
       "2022-11-03": 8688,
       "2022-10-27": 8698,
